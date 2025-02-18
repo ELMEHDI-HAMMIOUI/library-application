@@ -1,0 +1,12 @@
+id_membre;nom;prenom;cni;sexe;date_n;email;paswd;N_tele;addresse;date_inscription;status
+1;Hammioui;Elmehdi;AB123456;M;2003-01-21;elmehdi@example.com;pass123;0612345678;123 Rue Meknes;2024-01-10;Actif;photos/elmehdi.jpg
+2;Dupont;Marie;CD789012;F;1998-05-15;marie.dupont@example.com;mdp456;0611122334;456 Rue Rabat;2024-01-12;Actif;photos/marie.jpg
+3;Benjelloun;Ahmed;EF345678;M;1995-09-30;ahmed.benjelloun@example.com;ahmed123;0600112233;789 Rue Casablanca;2024-01-15;Inactif;photos/ahmed.jpg
+4;Lahmidi;Sara;GH901234;F;2000-07-20;sara.lahmidi@example.com;azerty123;0677889900;12 Rue Fes;2024-01-18;Actif;photos/sara.jpg
+5;Elkhalfi;Mohamed;IJ567890;M;1992-03-10;mohamed.elkhalfi@example.com;pass456;0655443322;34 Rue Marrakech;2024-01-20;Actif;photos/mohamed.jpg
+6;Alaoui;Fatima;KL123789;F;1990-11-05;fatima.alaoui@example.com;fatima321;0611223344;98 Rue Tanger;2024-01-22;Inactif;photos/fatima.jpg
+7;Boukhari;Youssef;MN987654;M;1994-02-12;youssef.boukhari@example.com;pass789;0622334455;11 Rue Agadir;2024-01-25;Actif;photos/youssef.jpg
+8;El Fassi;Khadija;OP654321;F;1988-06-22;khadija.elfassi@example.com;khadija123;0633445566;22 Rue Oujda;2024-01-27;Inactif;photos/khadija.jpg
+9;Naciri;Omar;QR112233;M;1996-04-18;omar.naciri@example.com;omarpass;0644556677;55 Rue Tétouan;2024-01-28;Actif;photos/omar.jpg
+10;Tazi;Laila;ST445566;F;2001-12-05;laila.tazi@example.com;laila456;0655667788;77 Rue Essaouira;2024-01-30;Actif;photos/laila.jpg
+11;elmz;dzdz;SD123;Female;12/10/2025;med@fz.dz;pmWkWSBCL51Bfkhn79xPuKBKHz//H6B+mY6G9/eieuM=;0312345678;ezdz;07/01/2025;Actif;D:\emsi4\zMyProjects\JAVA\GestionbibliothéqueSprint1\src\vue\MembreImage\elmz_dzdz.png
